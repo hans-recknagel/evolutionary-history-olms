@@ -1,0 +1,29 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<outputFile>
+<header>
+<runtype>MergeTree</runtype>
+<inflation>0.0599323</inflation>
+<burnin>10000</burnin>
+<datafilename>proteus_haplotypes_filtered_reordered_chunks.out</datafilename>
+<mcmcfilename>proteus_haplotypes_filtered_reordered_chunks.mcmc.xml</mcmcfilename>
+<copymodel>1</copymodel>
+</header>
+<comment>Command line: /usr/local/bin/finestructure -m T -x 10000 proteus_haplotypes_filtered_reordered_chunks.out proteus_haplotypes_filtered_reordered_chunks.mcmc.xml proteus_haplotypes_filtered_reordered_chunks.mcmcTree.xml 
+Version: finestructure build date Feb 17 2021 at 09:22:40
+Seed: 12994405145342924387</comment>
+<Iteration>
+<Pop>(PA256)(PC631.r)(PA343)(PA363)(PC586)(PC582,PA346)(PA255)(PC592)(PA049,PA040)(PC622)(PC580)(PA329)(PC578,PC579)(PA332,PA334,PC581)(PA354,PC630)(PA341,PC587)(PC614)(PC617,PC616,PC618)(PC593)(PA047)(PC623,PC621,PA331)</Pop>
+<Posterior>-75716312.179077520966529846191406</Posterior>
+<K>21</K>
+<alpha>1</alpha>
+<beta>127.828</beta>
+<delta>0.0110442</delta>
+<F>0.00801067</F>
+<AccSAMS>0</AccSAMS>
+<AccMS>0</AccMS>
+<AccIndiv>0</AccIndiv>
+<AccHyper>0</AccHyper>
+<Number>0</Number>
+</Iteration>
+<Tree>((((((((PA256:1.000000e+00,PA255:1.000000e+00)0.000:1.000000e+00,(PA346:1.000000e-05,PC582:1.000000e-05)0.000:1.999990e+00)0.000:1.000000e+00,PA343:3.000000e+00)0.000:1.000000e+00,(PC630:1.000000e-05,PA354:1.000000e-05)0.000:3.999990e+00)0.000:1.000000e+00,(((PA363:1.000000e+00,PC586:1.000000e+00)0.000:1.000000e+00,(PC578:1.000000e-05,PC579:1.000000e-05)0.000:1.999990e+00)0.000:1.000000e+00,PC593:3.000000e+00)0.000:2.000000e+00)0.000:1.000000e+00,((PC631.r:1.000000e+00,PC614:1.000000e+00)0.000:1.000000e+00,PC592:2.000000e+00)0.000:4.000000e+00)0.000:1.000000e+00,(((((PA040:1.000000e-05,PA049:1.000000e-05)0.000:1.000000e+00,PA047:1.000010e+00)0.000:1.000000e+00,(PA341:1.000000e-05,PC587:1.000000e-05)0.000:2.000000e+00)0.000:1.000000e+00,PA329:3.000010e+00)0.000:1.000000e+00,((PC580:1.000020e+00,(PC581:2.000000e-05,(PA334:1.000000e-05,PA332:1.000000e-05):1.000000e-05)0.000:1.000000e+00)0.000:1.000000e+00,((PC617:1.000000e-05,PC616:1.000000e-05):1.000000e-05,PC618:2.000000e-05)0.000:2.000000e+00)0.000:1.999990e+00)0.000:2.999990e+00)0.000:1.000000e+00,(PC622:1.000020e+00,((PC621:1.000000e-05,PC623:1.000000e-05):1.000000e-05,PA331:2.000000e-05)0.000:1.000000e+00)0.000:6.999980e+00):0.000000e+00;</Tree>
+</outputFile>

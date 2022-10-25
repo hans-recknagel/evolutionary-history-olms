@@ -1,0 +1,11 @@
+ID	parity
+"Necturus"	0
+"Istria"	1
+"Krajina"	1
+"Paralit"	1
+"KrasCar"	1
+"Lika"	1
+"parkelj"	0
+"SW Slo"	1
+"SE Slo"	1
+"Sticna"	1
