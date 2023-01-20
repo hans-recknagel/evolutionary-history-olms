@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # load libraries
 library(adegenet)
 library(Amelia)
@@ -1861,4 +1860,4 @@ Kras.Dloop.mantel
 Paralittoral.Dloop.mantel
 Lika.Dloop.mantel
 Istria.Dloop.mantel 
->>>>>>> 0eeaa07fdd09f5b40a347605c2b3755f580cb76a
+
